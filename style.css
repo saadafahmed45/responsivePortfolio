@@ -290,15 +290,16 @@ background-image:url('assets/img/footer-bg.png');
 }
 .count-head{
 	margin-top: 70px;
-	font-size: 40px;
-	font-weight: 700;
-	text-align: center;
+	font-size: 25px;
+	font-weight: 400;
+  text-align: center;
+  color:gray;
 
 }
 .counter{
-	font-weight: 600;
-	font-size: 30px;
-	color: red;
+	font-weight: 400;
+	font-size: 50px;
+	color:#e70c9c;
 	text-align: center;
 }
 
@@ -309,7 +310,7 @@ background-image:url('assets/img/footer-bg.png');
 	color: #fff;
 	border-radius: 2px;
 	font-weight: 600;
-	background:#fc4733;
+	background:#e70c9c;
 	padding:8px 18px;
 	text-transform:uppercase;
 	text-decoration: none;
@@ -327,7 +328,7 @@ background-image:url('assets/img/footer-bg.png');
 /*project section end*/
 
 /*box section start*/
-.box-section{
+/* .box-section{
  background-color: #ddd;
 }
 .box-header h1{
@@ -381,7 +382,7 @@ background-image:url('assets/img/footer-bg.png');
 .pc{
 	color:lime;
 
-}
+} */
 /*box section end*/
 /*content secton start*/
 .head-content{
