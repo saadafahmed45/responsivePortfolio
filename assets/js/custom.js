@@ -26,9 +26,18 @@ $(document).ready(function() {
       meanScreenWidth:768,
     });
 
-  // var typed = new Typed('#typed', {
-  //    stringsElement: '#typed-strings'
-  //   });
+  var typed = new Typed('.type', {
+  strings: [
+   ' Designer..',
+   'Photographer..',
+   'Researcher..',
+
+   ],
+    typeSpeed:60,
+    backSpeed:60,
+    loop: true,
+
+});
 
 });
 
