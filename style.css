@@ -12,7 +12,8 @@ body{
 .material-scrolltop.reveal {
     width: 50px;
     height: 50px;
-    background: red;
+    background: rgb(255, 0, 200);
+
 }
 .sec-padding{
 	padding:70px 0px;
@@ -22,6 +23,7 @@ body{
    /*background-color: #e70c9c !important;*/
    background-color:#615f6bde !important;;
 }
+
  .navbar-dark .navbar-brand {
     color: #00ffe7;
 }
@@ -131,6 +133,7 @@ body{
 .about-contant p {
   font-size: 18px;
   opacity: .7;
+  border-left: 5px solid #e70c9c;
 }
 
 
@@ -438,7 +441,7 @@ footer:after{
 	background: #e70c9c;
 	top:0px;
 	left: 0px;
-  opacity: .5;
+  opacity: .2;
   z-index: -1;
 
 }
