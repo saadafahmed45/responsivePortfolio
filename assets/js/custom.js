@@ -7,7 +7,7 @@ $(document).ready(function() {
 
     $('.counter').counterUp({
         delay: 50,
-        time: 5000
+        time: 4000
     });
     $('.manu').slicknav();
 
@@ -20,11 +20,11 @@ $(document).ready(function() {
     //     perturbance: 0.03,
     // });
 
-    $('#main-menu').meanmenu({
-      meanMenuContainer:'#mobail-menu',
+    // $('#main-menu').meanmenu({
+    //   meanMenuContainer:'#mobail-menu',
 
-      meanScreenWidth:768,
-    });
+    //   meanScreenWidth:768,
+    // });
 
   var typed = new Typed('.type', {
   strings: [
