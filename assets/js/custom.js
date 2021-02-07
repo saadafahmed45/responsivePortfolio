@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    new WOW().init();
+    new WOW().init({});
     $('body').materialScrollTop();
     $('#our_popup').magnificPopup({ type: 'image' });
 
@@ -33,8 +33,8 @@ $(document).ready(function() {
    'Researcher..',
 
    ],
-    typeSpeed:60,
-    backSpeed:60,
+    typeSpeed:50,
+    backSpeed:40,
     loop: true,
 
 });
