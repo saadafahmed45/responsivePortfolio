@@ -109,6 +109,20 @@ body{
   opacity: .9;
 }
 
+.social-icon {
+  margin-left: 15%;
+  margin-top: 5%;
+}
+.social-icon a {
+  font-size: 20px;
+  margin-left: 3%;
+  color:#000;
+  opacity:.8;
+
+}
+.social-icon a:hover{
+  color:#ff468f;
+}
 /*header slogan end*/
 
 /* about-sec start*/
@@ -123,12 +137,14 @@ body{
 
 }
 .about-img{
-	margin-left: 40px; 
+	margin-left: 18px; 
+  margin-top:17%; 
 }
 .about-img img {
-    width: 65%;
-    box-shadow: 1px 1px 7px 0px;
-    border: 2px solid #ff468f8a;
+    /*width: 90%;*/
+    max-width: 90%;
+    /*box-shadow: 1px 1px 7px 0px;*/
+    /*border: 2px solid #ff468f8a;*/
 }
 .about-contant{
 	margin-top: 12%;

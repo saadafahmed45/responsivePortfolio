@@ -11,7 +11,7 @@
     }
  
     .header-slogan{
-        height:50vh;
+        height:60vh;
        
     }
 
@@ -20,8 +20,8 @@
 }
 .header-img img {
     width: 90%;
-    margin-left: 16%;
-    margin-top: 14%;
+    margin-left: 10%;
+    margin-top: 16%;
 }
 .header-contant h1 {
 	font-size: 54px;
@@ -115,7 +115,7 @@ footer {
   margin-top: 4%;
 }
 .header-slogan {
-  height: 80vh;
+  height: 100vh;
  }
 .header-contant h1 {
   font-size: 42px;
@@ -137,12 +137,12 @@ footer {
 }
 
 .about-img img {
-    width: 70%;
-    margin-left: 35px;
+    width: 85%;
+    margin-left: 20px;
 }
 .about-contant h1 {
     font-size: 28px;
-    text-align: center;
+    text-align: left;
     font-weight: 600;
 }
 .about-contant p {
@@ -155,7 +155,10 @@ footer {
 .prg-section {
     height: 108vh;
 }
-
+.prg-img img {
+    width: 76%;
+    margin-left: 12%;
+}
 .prg-main {
     margin-left: 10%;
 }
