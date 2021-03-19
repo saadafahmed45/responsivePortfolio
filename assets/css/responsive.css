@@ -1,13 +1,13 @@
 @media only screen and (min-width:1000px) and (max-width:1200px){
     .navbar-nav {
-        margin-left: 52%;
+        margin-left: 40%;
     }
 }
 
 /* tablet layout */
 @media only screen and (min-width:481px) and (max-width:991px){
     .navbar-nav {
-        margin-left: 42%;
+        margin-left: 35%;
     }
  
     .header-slogan{

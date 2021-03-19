@@ -40,7 +40,7 @@ body{
  	color: #ffe300;;
  }
  .navbar-nav {
-    margin-left: 55%;
+    margin-left: 48%;
 }
 .navbar-dark .navbar-nav .nav-link {
     color: #fff;
@@ -275,7 +275,10 @@ background-image:url('assets/img/footer-bg.png');
   font-weight: 600;
 }
 
-
+.prt-btn {
+	margin-left: 47%;
+	margin-top: 4%;
+}
 /*portfolio section section END*/
 
  /*image section end*/
@@ -296,6 +299,7 @@ background-image:url('assets/img/footer-bg.png');
 .project-mind{
   padding: 70px 0px;
   background: #fff;
+
 }
 
 .project-section h1{
@@ -466,9 +470,6 @@ footer:after{
 	padding: 30px 0px;
 }
 .cc-name span{
-   color: lime;
-   font-weight: 500;
-}
-.cc-name h4{
-   font-weight:300;
+   color: rgb(60, 61, 60);
+   font-weight: 400;
 }
