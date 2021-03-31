@@ -406,7 +406,7 @@ footer:after{
 	background: #ff468f;
 	top:0px;
 	left: 0px;
-  opacity: .7;
+  opacity: .3;
   z-index: -1;
 
 }
@@ -421,9 +421,9 @@ footer:after{
     /*margin-top:%; */
 }
 .massage-image img {
-    width: 52%;
-    margin-left: 90px;
-    margin-top: 13%;
+  width: 87%;
+  margin-left: 48px;
+  margin-top: 13%;
 }
 
 .fst-input {
@@ -457,7 +457,7 @@ footer:after{
 
 }
 .footer-btn:hover{
-  background: tomato;
+  background: rgb(116, 48, 224);
     color: #000;
 
 }
@@ -465,11 +465,13 @@ footer:after{
 
 
 /*last*/
-.dvlp-section{
+.dvlp-section h4{
 	background-color:#fff;
 	padding: 30px 0px;
+  margin-left: 34%;
+  font-size:20px;
+  color: rgb(60, 61, 60);
+  font-weight: 500;
+;
 }
-.cc-name span{
-   color: rgb(60, 61, 60);
-   font-weight: 400;
-}
+
